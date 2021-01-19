@@ -71,7 +71,7 @@
 * Le système doit me permettre de saisir la date et l'heure d'un évènement ainsi qu'une déscription de celui-ci.
 * Le système doit me permettre de valider la saisi et de l'enregistrer dans le calendrier.
 
-# ** Page de gestion des tâches**
+# **Page de gestion des tâches**
 ## En tant qu'utilisateur, je veux visualiser toutes mes tâches enregistrées afin de savoir ce que je dois faire.
 * Le système doit m'afficher sur la page une liste de toutes les tâches à accomplir enregistré.
 * Le système doite m'indiquer pour chaque tâche, qui a enregistré cette tâche et la date et l'heure de l'enregistrement.
