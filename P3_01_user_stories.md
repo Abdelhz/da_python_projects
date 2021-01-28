@@ -26,7 +26,7 @@
 # **Interface de chat**
 
 ## En tant qu'utilisateur, je doit pouvoir selectionner une conversation afin de visualiser et interagie avec son contenu.
-* Etant donné que je suis sur la page de chat, une liste de toutes les conversations(chats) initiées avec un contacte ainsi que l'identité du contacte doit étre affichée en indiquant les messages non lu.
+* Etant donné que je suis sur la page de chat, une liste de toutes les conversations(chats) initiées avec un contact ainsi que l'identité du contact doit étre affichée en indiquant les messages non lu.
 * Etant donné que je clique sur une conversation, celle si s'affiche sur la page avec la date et l'heure de chaque message.
 * Etant donné que je clique sur l'espace d'ecriture de messages, je dois pouvoir saisir mon message.
 * Etant donné que je clique sur le bouton envoyer, le message saisi est envoyé.
@@ -36,7 +36,7 @@
 * Etant donné que je saisie l'adresse email ou le pseudo de la personne que je cherche, le système verifie si celle si existe dans sa base de donnée et m'indique s'il elle est trouvé ou non.
 * Etant donné que je clique sur le nom de la personné recherchée et trouvée, celle-ci est ajoutée à mes contacts et une conversation est instentanément initiée.
 
-## En tant qu'utilisateur, je supprimer un contacte afin de ne plus l'avoir dans la liste de contactes.
+## En tant qu'utilisateur, je supprimer un contact afin de ne plus l'avoir dans la liste de contacts.
 * Etant donné que je clique sur le bouton "supprimer", une liste de mes contacts est affichée.
 * Etant donné que je clique sur un de mes contacts celui-ci est supprimé de ma liste de contacts.
 
